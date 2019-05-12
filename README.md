@@ -6,7 +6,7 @@ I am using Python for development and OpenCV as main library for image processin
 
 
 
--- def read_multiple_images_and_convert(image_directory, convertion_type=None) :
+-- def read_multiple_images_and_convert(image_directory, convertion_type=None) :  
   Function to read multiple images from one folder and convert them into another  
   color palette. In the end we display the images  
 
